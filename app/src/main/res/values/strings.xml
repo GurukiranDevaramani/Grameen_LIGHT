@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Grameen-Light</string>
+    <string name="open_map">Open Map</string>
+    <string name="repair_tracker">Repair Tracker</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="report_title">Report Streetlight Issue</string>
+    <string name="pole_id_label">Pole ID: %1$s</string>
+    <string name="select_status">Select Status:</string>
+    <string name="status_working">Working</string>
+    <string name="status_fused">Fused</string>
+    <string name="status_burning_day">Burning in Day</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="tracker_title">Repair Status Tracker</string>
+    <string name="complaint_id_label">Complaint ID: %1$s</string>
+    <string name="status_label">Status: %1$s</string>
+    <string name="dashboard_title">Village Energy Dashboard</string>
+    <string name="total_reports">Total Reports</string>
+    <string name="fixed_poles">Fixed Poles</string>
+    <string name="energy_saved">Energy Saved (Est.)</string>
+    <string name="energy_unit">%1$d kWh</string>
+</resources>
